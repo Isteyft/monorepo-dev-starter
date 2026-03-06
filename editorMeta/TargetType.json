@@ -1,0 +1,10 @@
+[
+    {
+        "TypeID": 1,
+        "TypeName": "自身"
+    },
+    {
+        "TypeID": 2,
+        "TypeName": "敌方"
+    }
+]

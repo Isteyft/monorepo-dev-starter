@@ -1,0 +1,14 @@
+[
+    {
+        "TypeStrID": ">",
+        "TypeName": "大于"
+    },
+    {
+        "TypeStrID": "=",
+        "TypeName": "等于"
+    },
+    {
+        "TypeStrID": "<",
+        "TypeName": "小于"
+    }
+]
